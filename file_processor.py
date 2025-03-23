@@ -1,4 +1,10 @@
-# Nikolai Ceballos 2025
+"""
+File: main.py
+Author: Nikolai Ceballos
+Date: 2025-03-23
+Description: Handles the logic for updating specific lines in the GUI based on user input and saving the modified file to a chosen location..
+"""
+
 import os
 import tkinter as tk
 from tkinter import  messagebox
